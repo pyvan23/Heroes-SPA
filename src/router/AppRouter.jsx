@@ -9,7 +9,7 @@ import { Navbar } from "../ui";
 export const AppRouter = () => {
   return (
     <>
-      <Routes>
+      <Routes >
         <Route
           path="/login/*"
           element={
