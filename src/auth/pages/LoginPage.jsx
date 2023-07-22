@@ -17,6 +17,13 @@ export const LoginPage = () => {
     <div className="container mt-5">
       <h1>login</h1>
       <hr />
+      <div>
+
+
+      <input type="email" about="insert" className="m-3" />
+      <input type="email" about="insert" />
+
+      </div>
       <button className="btn btn-primary" onClick={onLogin}>
         login
       </button>
